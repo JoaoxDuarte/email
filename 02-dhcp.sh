@@ -1,18 +1,4 @@
 #!/bin/bash
-# Autor: Robson Vaamonde
-# Site: www.procedimentosemti.com.br
-# Facebook: facebook.com/ProcedimentosEmTI
-# Facebook: facebook.com/BoraParaPratica
-# YouTube: youtube.com/BoraParaPratica
-# Linkedin: https://www.linkedin.com/in/robson-vaamonde-0b029028/
-# Instagram: https://www.instagram.com/procedimentoem/?hl=pt-br
-# Github: https://github.com/vaamonde
-# Data de criação: 10/10/2021
-# Data de atualização: 30/04/2023
-# Versão: 0.16
-# Testado e homologado para a versão do Ubuntu Server 20.04.x LTS x64
-# Testado e homologado para a versão do ISC DHCP Server v4.4.x
-#
 # O ISC DHCP Server dhcpd (uma abreviação de "daemon DHCP") é um programa de servidor 
 # DHCP que opera como um daemon em um servidor para fornecer serviço de protocolo de 
 # configuração dinâmica de hosts (DHCP) a uma rede. Essa implementação, também conhecida 
